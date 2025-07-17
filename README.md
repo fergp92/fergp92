@@ -23,21 +23,22 @@ Passionate about digital identity management, with proven experience leading IAM
 - **DevOps & Infra:** Docker, Kubernetes
 - **Cloud:** Azure, AWS
 - **Security:** MFA, RBAC, Policy Management
-- **Other:** REST APIs, PowerShell, Bash, Git
+- **Other:** REST APIs, PowerShell, Bash, Git, AGILE methodolies
 
 ---
 
 ## 🏢 Experience
 
-*Copy and paste your main experiences here, focusing on IAM projects, roles, responsibilities, and achievements.*
+*12 Years in IT*
+*7 years in IAM*
 
 ---
 
 ## 🎓 Certifications
 
-ITIL v3
-Azure Foundations
-CCSP
+- ITIL v3
+- Azure Foundations
+- CCSP
 ---
 
 ## 🌐 Languages
