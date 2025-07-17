@@ -17,7 +17,6 @@ Passionate about digital identity management, with proven experience leading IAM
 ---
 
 ## 🛠️ Technologies & Tools
-## 🛠️ Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Keycloak-0072C6?style=for-the-badge&logo=keycloak&logoColor=white" />
