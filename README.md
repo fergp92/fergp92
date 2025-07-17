@@ -2,7 +2,7 @@
 <h3 align="center">IAM Product Owner | Identity & Access Management Specialist</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/fergp92?v=4" width="120" align="center" alt="GitHub Avatar" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/15089648?v=4" width="120" align="center" alt="GitHub Avatar" style="border-radius:50%">
 </p>
 
 ---
