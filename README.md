@@ -23,7 +23,7 @@ Passionate about digital identity management, with proven experience leading IAM
 - **DevOps & Infra:** Docker, Kubernetes
 - **Cloud:** Azure, AWS
 - **Security:** MFA, RBAC, Policy Management
-- **Other:** REST APIs, PowerShell, Bash, Git, AGILE methodolies
+- **Other:** REST APIs, PowerShell, Bash, Git, AGILE methodolies, Digital transformation. 
 
 ---
 
@@ -39,6 +39,7 @@ Passionate about digital identity management, with proven experience leading IAM
 - ITIL v3
 - Azure Foundations
 - CCSP
+- Masters degree in Cybersecurity in digital transformation
 ---
 
 ## 🌐 Languages
