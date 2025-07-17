@@ -42,8 +42,7 @@ Passionate about digital identity management, with proven experience leading IAM
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital_Transformation-00B8D9?style=for-the-badge&logo=transform&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile_Methodologies-21BA45?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/LDAP-19498A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MFA-FFCD00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PAM-19498A?style=for-the-badge" />
 </p>
 </p>
 
